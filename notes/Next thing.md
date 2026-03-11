@@ -13,14 +13,16 @@ Process:
   - Prototype, material things over high-level concepts etc
 
 Ideas:
- - New ways of interaction
- - Collapsing things, revealing/surfacing information etc.
+New ways of interaction
+
+Collapsing things, revealing/surfacing information etc.
 
 AI-assisted reading, kindle!!
 
 Sensor-based interaction models!!
   - How can we simplify UI/UX
-  - 
+
+
 
 
 
