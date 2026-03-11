@@ -16,7 +16,10 @@ Ideas:
  - New ways of interaction
  - Collapsing things, revealing/surfacing information etc.
 
-AI-assisted reading, kindle!
+AI-assisted reading, kindle!!
+
+Sensor-based interaction models!!
+  - How can we simplify 
 
 
 
