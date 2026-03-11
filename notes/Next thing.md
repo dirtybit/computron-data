@@ -19,7 +19,8 @@ Ideas:
 AI-assisted reading, kindle!!
 
 Sensor-based interaction models!!
-  - How can we simplify 
+  - How can we simplify UI/UX
+  - 
 
 
 
