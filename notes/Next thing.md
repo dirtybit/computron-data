@@ -11,7 +11,9 @@ Process:
   - High-level thinking <> low-level tinkering oscillate btwn these two until we converge on something
   - Prototype, material things over high-level concepts etc
 
-
+Ideas:
+ - New ways of interaction
+ - Collapsing things, revealing/surfacing information etc. 
 
 
 
