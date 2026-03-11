@@ -6,6 +6,7 @@ Discuss boundaries, constraints to narrow down the scope of ideation phase
   - LT is hardware focused, but open to software too
   - Slight hardware bias nothing to prevent us from working on software
   - OpenClaw or generally always online, running agent is “sexy” now
+  - Demographics is not a big concern (it can be broad, narrow)
 
 Process:
   - High-level thinking <> low-level tinkering oscillate btwn these two until we converge on something
@@ -13,7 +14,9 @@ Process:
 
 Ideas:
  - New ways of interaction
- - Collapsing things, revealing/surfacing information etc. 
+ - Collapsing things, revealing/surfacing information etc.
+
+AI-assisted reading, kindle!
 
 
 
