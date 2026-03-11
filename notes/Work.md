@@ -1,5 +1,5 @@
 ## 2026-03-11
-
+We’re having this kick off meeting for the [[Next thing]]
 
 ## 2026-03-10
 Started thinking about the [[Next thing]]. I am thinking we could turn this into an opportunity to work on something meaningful, truly useful, instead of adding more slop/junk on the Alexa portfolio.

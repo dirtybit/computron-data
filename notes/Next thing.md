@@ -1,4 +1,17 @@
 
+## Mar 11, 2026 - Kick off meeting
+We’ll have an fairly open ended ideation within the structural boundaries.
+
+Discuss boundaries, constraints to narrow down the scope of ideation phase
+  - LT is hardware focused, but open to software too
+  - Slight hardware bias nothing to prevent us from working on software
+  - Openclaw or generally always online, running agent is “sexy” now
+  - 
+
+
+
+
+## Dump (Trash)
 
 **Alexa Learning Lab** 
 Help kids learn!!
