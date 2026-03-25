@@ -15,6 +15,13 @@ Which tools?
 What does the connection look like? A visitor can't tell if this is a Jira plugin, a Notion replacement, or a Slack bot.
 
 
+**Overall concept**
+What’s not clear to me during my experience:
+ - Is this a document hub for docs like PRDs, or it’s another layer where I am supposed to connect all the tools (notion, slack, linear) i used in my prod dev and this should be a centralized intelligence layer on top of all.
+ - If I am writing specs/docs in ProductNow using/referring some other resources (notion pages, etc) how am i supposed to make sure that one of them is the source of truth. ppl can make edits to docs so out of sync can happen easily.
+ - 
+
+
 
 ### Experience
 
