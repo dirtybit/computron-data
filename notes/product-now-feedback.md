@@ -23,6 +23,13 @@ Bug?: Guided tour started again when I logged in even if i finished it the first
 
 Bug? Clicking logo expand left panel (drawer), but it covers the main page content 
 ![[2026-03-25_13-54-36.png]]
+Bug? Connected it to my personal Slack but it still says no slack config yet
+  Would be good to have some inline links in the connectors page next to each connector type for documentation/help page. no help content on connectors in help center.
+
+
+
+
+
 
 --------
 
