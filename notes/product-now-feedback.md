@@ -51,7 +51,11 @@ intelligence would be more useful for things like tighenening the scope, making 
 
 i tried a sharing some notes on a project, with more details like features, expected behavior, tech decisions, rough timeline, risks i am worried about etc 
 
-the goal is to see how it can process the scattered notes with details and decisions and generate a doc based on that. does it respect my existing notes, overrides or omits things? how does it extend? u
+the goal is to see how it can process the scattered notes with details and decisions and generate a doc based on that. does it respect my existing notes, overrides or omits things? how does it extend?
+
+it preserved my notes generally that was good. but it came with stuff which is hard to justify (no source/citation)
+ - Research demonstrates that teams lose 20.5% of productive time to tool switching
+ - Market validation shows annotation-focused tools like Markup.io and Frame.io outperform full whiteboard platforms
 
 --------
 
