@@ -4,7 +4,9 @@
 >
 > One intelligent system that connects every workflow, aligns every team and accelerates product velocity.
 
-It’s a little too broad. who’s this product targeting (persona), and how they expected to use.
+It’s a little too broad. what does productnow do to help teams accomplish this? features section can be more targeted/specific/explicit about the content
+
+
 
 emphasis on the importance of team alignment, but what’s the value add for productnow. 
 
