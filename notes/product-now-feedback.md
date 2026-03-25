@@ -21,7 +21,8 @@ What does the connection look like? A visitor can't tell if this is a Jira plugi
 Bug?: Guided tour started again when I logged in even if i finished it the first time.
 
 
-
+Bug? Clicking logo expand left panel (drawer), but it covers the main page content 
+![[2026-03-25_13-54-36.png]]
 
 --------
 
