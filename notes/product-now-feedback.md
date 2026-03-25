@@ -18,7 +18,5 @@ What does the connection look like? A visitor can't tell if this is a Jira plugi
 
 ### Experience
 
-Guided tour started on later logins even if i finished it the first time.
+Bug?: Guided tour started again when I logged in even if i finished it the first time.
 
-
-Ex
