@@ -56,6 +56,7 @@ the goal is to see how it can process the scattered notes with details and decis
 it preserved my notes generally that was good. but it came with stuff which is hard to justify (no source/citation)
  - Research demonstrates that teams lose 20.5% of productive time to tool switching
  - Market validation shows annotation-focused tools like Markup.io and Frame.io outperform full whiteboard platforms
+ - rollout plan was supposed to be 8 week but expanded to 16 week with no reasoning or headsup.
 
 --------
 
