@@ -17,7 +17,23 @@ I love this concept — let me first do thorough research on Alexa's current dev
 
 The "Generated UI Preview" tab on each case shows what the AI would actually produce — interactive toggles, warnings for hidden gotchas, and pre-set recommended values. This is the core of your concept: turning "read this 2,000 word guide" into "here are the 9 controls that matter for your specific situation."
 
+Let me research more complex Alexa configuration pain points that fit this pattern perfectly.Now I have comprehensive research on several more pain-point scenarios. Let me expand the artifact with new use cases that all follow the pattern: manual solution exists, but it's cumbersome and non-trivial.Now I'll insert the 5 new expanded use cases into the existing artifact:Now let me update the design principles to reflect the expanded scope:Now update the use cases section description to reflect the expanded count:The artifact now has **10 comprehensive use cases** — all following your criterion of "manual solution exists but it's cumbersome and non-trivial." Here's what I added:
 
+**5 new scenarios:**
+
+**✈️ Two-Week Vacation Home Simulation** — The nastiest one. Alexa's vacation prep spans 4 disconnected feature domains (Guard, Away Lighting, Modes, Routines) across 3 separate apps (Alexa, Ring, thermostat). The real killer is the pet sitter exception: they need daily entry access without triggering the security system. Currently requires you to set up Home/Away Modes *first* (a hidden prerequisite) before Vacation Mode even appears as an option. The AI treats the pet sitter as a first-class "trusted visitor window" concept with suppressed alerts during their time slot.
+
+**👨‍👩‍👧‍👦 4-Person Household Personalization** — Alexa has *five* different identity systems (Voice ID, Visual ID, Alexa Profiles, Household Profiles, Amazon Kids) with confusing overlap and different setup paths. The 14-year-old needs an Alexa Profile (not Amazon Kids — too restrictive at that age), but Amazon Kids can only be toggled per-device, so enabling it on the shared kitchen Echo locks *everyone* into child mode. The AI generates a household matrix showing who gets what, with a dependency-ordered setup sequence.
+
+**🔕 Taming Notification Overload** — 8+ separate notification sources, each configured in a different app section. The crucial insight most users miss: Brief Mode makes Alexa's *responses* shorter but doesn't reduce the *number* of notifications. The AI categorizes everything into priority tiers (security → personal → suppress) with bulk mute actions, and applies Do Not Disturb across all 6 devices at once instead of individually.
+
+**🎵 Whole-Home Audio Optimization** — EQ must be set per-device (no batch control), but each Echo model has different speaker capabilities. Boosting bass on an Echo Pop literally produces rattling, not depth. Room acoustics matter (bathroom tile amplifies treble, kitchen noise needs Adaptive Listening). The AI generates purpose-driven profiles: music room, podcast kitchen, audiobook bedroom, focus office.
+
+**👵 Setting Up Echo for an Elderly Parent** — No "senior mode" exists. Requires 16+ settings across accessibility, safety, communication, and simplification — with a hidden $20/month subscription (Alexa Together) for fall detection. The AI prioritizes Safety first, catches the medication reminder persistence gap (standard reminders stop after one dismissal), and recommends wake word changes if "Alexa" is hard to remember.
+
+**⚡ Whole-Home Energy Optimization** — Alexa has no concept of electricity rate schedules. Users must manually create 10+ time-based routines for peak avoidance, pre-cooling strategy, EV charge shifting, and weekday/weekend variants — each built action-by-action. The AI designs it as one unified energy strategy with the pre-cooling concept (run HVAC on cheap power *before* peak, then coast) automated.
+
+I also expanded the **Design Principles** section with two new principles: *Dependency-Aware Sequencing* (hidden prerequisites like "modes must exist before vacation mode") and *Persona-Driven Defaults* (age-appropriate settings, accessibility presets).
 
 
 
