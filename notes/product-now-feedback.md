@@ -35,7 +35,8 @@ Bug? Connected it to my personal Slack but it still says no slack config yet
 
 
 
-
+Initial doc editing page:
+ - Am I supposed to write a doc here or what I am writing is more like a prompt? 
 
 
 --------
