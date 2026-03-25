@@ -20,3 +20,28 @@ What does the connection look like? A visitor can't tell if this is a Jira plugi
 
 Bug?: Guided tour started again when I logged in even if i finished it the first time.
 
+
+
+
+--------
+
+I'd deeply appreciate your feedback on two key areas:
+
+### Document Generation
+
+How does the document generation experience feel overall?
+
+*   Does web search integration work as expected? Are you satisfied with the quality of first-draft documents?
+*   Do you find the templates useful? Are there any that stand out, or suggestions for additional templates we should add?
+
+### AI-Assisted Drafting
+
+When editing documents, can you effectively use the AI assistant to direct your edits?
+
+*   Can you reference web content and request broader edits? Does the assistant behave as you'd expect?
+*   How do the various visualizations feel? Do any stand out as particularly useful?
+    *   If you click the "..." in the top bar, you'll see our full list, else you can type `/` to access the list inline
+*   I've been experimenting with setting a section to "Audio" and having the agent summarize the document. Then playing it back at 2x speed — does this sound valuable to you?
+    *   You can change the output type of a section using the "..." in the section title > Content type > Audio
+
+We have an MCP server and numerous improvements to review next, but I'd love to hear first whether the drafting experience feels solid. Any and all feedback is greatly appreciated!
