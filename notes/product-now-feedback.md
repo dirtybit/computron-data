@@ -11,6 +11,7 @@ features section can clarify this.
 The feature cards are too abstract, feels a little buzzwordy. 
 
 What does "Connects every tool, epic and workflow into a shared intelligence layer" actually mean in practice? 
+Use cases / workflows missing.
 Which tools? 
 What does the connection look like? A visitor can't tell if this is a Jira plugin, a Notion replacement, or a Slack bot.
 
