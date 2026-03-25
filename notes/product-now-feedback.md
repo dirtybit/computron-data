@@ -48,6 +48,11 @@ Flow could be start from a high level outline with the given details, call out m
 
 intelligence would be more useful for things like tighenening the scope, making decisions on how to phase the product, charting potential critical cases, edge cases, calling out things to be considerd and help me make those decisions bringing in external resources like web search etc.
 
+
+i tried a sharing some notes on a project, with more details like features, expected behavior, tech decisions, rough timeline, risks i am worried about etc 
+
+the goal is to see how it can process the scattered notes with details and decisions and generate a doc based on that. does it respect my existing notes, overrides or omits things? how does it extend? u
+
 --------
 
 I'd deeply appreciate your feedback on two key areas:
