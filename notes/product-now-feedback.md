@@ -46,6 +46,7 @@ Generated a very long bloated document with lots of details (hence decisions). I
 
 Flow could be start from a high level outline with the given details, call out missing details and areas needs to be elaborated, for each take my input, ask questions and create the doc together. the agent should do the most of the work but I am still in charge and can follow how we got to the first draft revision from the very first prompt i shared. instead of having to review a huge text dump. 
 
+intelligence would be more useful for things like tighenening the scope, making decisions on how to phase the product, charting potential critical cases, edge cases, calling out things to be considerd and help me make those decisions bringing in external resources like web search etc.
 
 --------
 
