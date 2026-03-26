@@ -73,7 +73,9 @@ Inaccurate estimations:
 
 ---
 
-Reviewing edits in the agent/chat panel is difficult. It shows a big block of text even if there’s a minor change within that few paragraph long text (e.g. replace 16-week to 8-week), it would be good to review these changes on the actual document. Also, while reviewing the proposed changes, I’d love to leave some comments and feedback and so we can take another pass to refine those. 
+Reviewing edits in the agent/chat panel is difficult. It shows a big block of text even if there’s a minor change within that few paragraph long text (e.g. replace 16-week to 8-week), it would be good to review these changes on the actual document. 
+![[2026-03-26_11-27-41.png]]
+Also, while reviewing the proposed changes, I’d love to leave some comments and feedback and so we can take another pass to refine those. 
 
 --------
 
