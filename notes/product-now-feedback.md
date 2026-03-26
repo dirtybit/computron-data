@@ -26,7 +26,9 @@ What’s not clear to me during my experience:
 
 ### Experience
 
-Idea: Alternative take on the product workflow. Doc is not the process, but the deliverable. Reaching to PRD, specs, strategy docs is a process where various phases of research can be done, ideas/notes are collected over time, brainstorming or discussion kind of 
+Idea: Alternative take on the product workflow. Doc is not the process, but the deliverable. Reaching to PRD, specs, strategy docs is a process where various phases of research can be done, ideas/notes are collected over time, brainstorming or discussion kind of process is part of it even if it’s something I am doing on my own. 
+
+What if ProductNow help me through out this process, it starts like a scrathpad where I can dump everything I have tech/product/stragegy docs, visuals, meeting notes, research findings, user feedback etc. and then start my process where ProductNow (in an interactive way) help me explore each area ik want to dig in. use cases, user stories, requirements, tech contrainsts, scope, rollout plan in a gradual way. maybe the main point is the separation of scratpad vs the output document. scratchpad is where I work and as we work I see how everything distilled and put together in my final doc.
 
 Idea: It would be interesting to make productnow docs accessible to claude code so it can refer to the PRD while planning etc.
 
