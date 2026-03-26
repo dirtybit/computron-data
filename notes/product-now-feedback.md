@@ -61,6 +61,16 @@ it preserved my notes generally that was good. but it came with stuff which is h
  - expanded the scope by adding new features or extending existing ones without asking me
  - invented metrics/target without flagging
 
+
+Post-generation Editing
+
+Inaccurate estimations:
+****Why descope:**** Export is a convenience feature, not core to the handoff workflow. Users can screenshot the canvas if needed.
+
+****Impact:**** Saves 1-2 weeks in Sprint 5-6. Export requires canvas-to-image rendering library integration and testing across formats.
+
+****Workaround:**** Users can take screenshots or share the live canvas link instead.
+
 --------
 
 I'd deeply appreciate your feedback on two key areas:
