@@ -26,6 +26,8 @@ What’s not clear to me during my experience:
 
 ### Experience
 
+Idea: Alternative take on the product workflow. Doc is not the process, but the deliverable. Reaching to PRD, specs, strategy docs is a process where various phases of research can be done, ideas/notes are collected over time, brainstorming or discussion kind of 
+
 Idea: It would be interesting to make productnow docs accessible to claude code so it can refer to the PRD while planning etc.
 
 Inference latency can be very high sometimes even for minor generations like to-the-point edits, asking questions. 
