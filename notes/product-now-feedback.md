@@ -1,4 +1,31 @@
 
+Kadhir’s message:
+
+I'd deeply appreciate your feedback on two key areas:
+
+### Document Generation
+
+How does the document generation experience feel overall?
+
+*   Does web search integration work as expected? Are you satisfied with the quality of first-draft documents?
+*   Do you find the templates useful? Are there any that stand out, or suggestions for additional templates we should add?
+
+### AI-Assisted Drafting
+
+When editing documents, can you effectively use the AI assistant to direct your edits?
+
+*   Can you reference web content and request broader edits? Does the assistant behave as you'd expect?
+*   How do the various visualizations feel? Do any stand out as particularly useful?
+    *   If you click the "..." in the top bar, you'll see our full list, else you can type `/` to access the list inline
+*   I've been experimenting with setting a section to "Audio" and having the agent summarize the document. Then playing it back at 2x speed — does this sound valuable to you?
+    *   You can change the output type of a section using the "..." in the section title > Content type > Audio
+
+We have an MCP server and numerous improvements to review next, but I'd love to hear first whether the drafting experience feels solid. Any and all feedback is greatly appreciated!
+
+----
+
+
+
 ### Website & Product Concept
 > The AI operating system for Product and Engineering
 >
@@ -89,28 +116,14 @@ Diff view can be messy some times hard to read. it might be good check how googl
 ![[2026-03-26_11-28-51.png]]
 
 I ask for web search on an open question in my doc, it gathered the info after doing a search but no citations, source info in the results. it was able to give me sources when I asked explicitly, which is really cool. maybe this could be part of the first response small reference indicators clickable badges etc. 
+
+Visualizations were positively surprising and impressive!! I wasnt expecting something like that so that’s really cool. It got the timing wrong in one of gantt charts (started from jan 2026 instead of project’s start date).
+
+Overall feedback on document generation and ai-assisted derafting. Upfront large content generation didn’t feel very enticing. Seeing a very large document generated after my prompt where possible lot’s of gaps and things to be clarified is cum,bersome review process. I kinda feel like i have to review a large ai generated text which may or may not be relevant to the my goal and work. Reducing the review work here would be very useful so producing the doc gradually might be a good idea instead of dumping a very heavy content to user upfront.
+
 --------
 
-I'd deeply appreciate your feedback on two key areas:
-
-### Document Generation
-
-How does the document generation experience feel overall?
-
-*   Does web search integration work as expected? Are you satisfied with the quality of first-draft documents?
-*   Do you find the templates useful? Are there any that stand out, or suggestions for additional templates we should add?
-
-### AI-Assisted Drafting
-
-When editing documents, can you effectively use the AI assistant to direct your edits?
-
-*   Can you reference web content and request broader edits? Does the assistant behave as you'd expect?
-*   How do the various visualizations feel? Do any stand out as particularly useful?
-    *   If you click the "..." in the top bar, you'll see our full list, else you can type `/` to access the list inline
-*   I've been experimenting with setting a section to "Audio" and having the agent summarize the document. Then playing it back at 2x speed — does this sound valuable to you?
-    *   You can change the output type of a section using the "..." in the section title > Content type > Audio
-
-We have an MCP server and numerous improvements to review next, but I'd love to hear first whether the drafting experience feels solid. Any and all feedback is greatly appreciated!
+I tested it using the prompts below one is more open ended and vague, the other one relatively dense and detailed.
 
 
 
