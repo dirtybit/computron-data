@@ -73,7 +73,7 @@ Inaccurate estimations:
 
 ---
 
-Reviewing edits in the agent/chat panel is difficult. It shows a block of text but it’s not clear what’s that for. is it meant to replace a content, or to be added to certain place, where’s this edit targeting?
+Reviewing edits in the agent/chat panel is difficult. It shows a big block of text even if there’s a minor change within that few paragraph long text (e.g. replace 16-week to 8-week), it would be good to review these changes on the actual document. Also, while reviewing the proposed changes, I’d love to leave some comments and feedback and so we can take another pass to refine those. 
 
 --------
 
