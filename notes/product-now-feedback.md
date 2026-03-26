@@ -88,7 +88,7 @@ Also, while reviewing the proposed changes, I’d love to leave some comments an
 Diff view can be messy some times hard to read. it might be good check how google docs, notion etc shows changes across revisions. something similar to that can be useful here
 ![[2026-03-26_11-28-51.png]]
 
-I ask for web search on an open question in my doc, it gathered the info after doing a search but no citations, source info in the results. it was able to give me 
+I ask for web search on an open question in my doc, it gathered the info after doing a search but no citations, source info in the results. it was able to give me sources when I asked explicitly, which is really cool. maybe this could be part of the first response small reference indicators clickable badges etc. 
 --------
 
 I'd deeply appreciate your feedback on two key areas:
