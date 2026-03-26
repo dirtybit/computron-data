@@ -26,6 +26,8 @@ What’s not clear to me during my experience:
 
 ### Experience
 
+Idea: It would be interesting to make productnow docs accessible to claude code so it can refer to the PRD while planning etc.
+
 Inference latency can be very high sometimes even for minor generations like to-the-point edits, asking questions. 
 
 Bug?: Guided tour started again when I logged in even if i finished it the first time.
