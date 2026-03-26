@@ -71,6 +71,10 @@ Inaccurate estimations:
 
 ****Workaround:**** Users can take screenshots or share the live canvas link instead.
 
+---
+
+Reviewing edits in the agent/chat panel is difficult. It shows a block of text but it’s not clear what’s that for. is it meant to replace a content, or to be added to certain place, where’s this edit targeting?
+
 --------
 
 I'd deeply appreciate your feedback on two key areas:
