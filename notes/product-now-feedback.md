@@ -77,6 +77,9 @@ Reviewing edits in the agent/chat panel is difficult. It shows a big block of te
 ![[2026-03-26_11-27-41.png]]
 Also, while reviewing the proposed changes, I’d love to leave some comments and feedback and so we can take another pass to refine those. 
 
+Diff view can be messy some times hard to read. it might be good check how google docs, notion etc shows changes across revisions. something similar to that can be useful here
+![[2026-03-26_11-28-51.png]]
+
 --------
 
 I'd deeply appreciate your feedback on two key areas:
