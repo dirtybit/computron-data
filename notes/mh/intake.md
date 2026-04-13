@@ -7,33 +7,23 @@ Absolutely. Here is a **structured psychiatric-style intake form** version you c
 **Name:** Anonymous
 **Age:** 37
 **Occupation / School status:** Software Engineer, Masters
-**Referred by:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 **Reason for evaluation / main concerns (in your own words):**
-
----
-
----
-
----
-
----
+Patient with mental health history, currently in psychiatric treatment and regular psychotherapy. Diagnosed with BP 2, reason for evaluation is to verify/validate diagnoses
 
 ## 1\. Current Symptoms
 
 Please check any current symptoms that apply:
 
 ### Mood
-
 \[ \] Depressed mood  
-\[ \] Loss of interest / pleasure  
-\[ \] Low motivation  
-\[ \] Hopelessness  
-\[ \] Guilt / shame  
+\[x\] Loss of interest / pleasure  
+\[x\] Low motivation  
+\[x\] Hopelessness  
+\[x\] Guilt / shame  
 \[ \] Irritability  
 \[ \] Mood swings  
-\[ \] Emotional numbness  
-\[ \] Anxiety / excessive worry  
+\[x\] Emotional numbness  
+\[x\] Anxiety / excessive worry  
 \[ \] Panic attacks
 
 ### Energy / Activity
@@ -47,12 +37,12 @@ Please check any current symptoms that apply:
 
 ### Thinking / Concentration
 
-\[ \] Trouble concentrating  
-\[ \] Distractibility  
+\[x\] Trouble concentrating  
+\[x\] Distractibility  
 \[ \] Racing thoughts  
 \[ \] Forgetfulness  
 \[ \] Disorganization  
-\[ \] Trouble starting tasks  
+\[x\] Trouble starting tasks  
 \[ \] Trouble finishing tasks  
 \[ \] Mental fog
 
@@ -66,15 +56,15 @@ Please check any current symptoms that apply:
 
 ### Social / Sensory / Behavior
 
-\[ \] Social withdrawal  
-\[ \] Difficulty maintaining friendships  
-\[ \] Feeling like I do not fit in  
-\[ \] Sensitivity to noise  
-\[ \] Sensitivity to smells  
-\[ \] Sensitivity to light / texture / crowds  
-\[ \] Addictive or compulsive behavior  
+\[x\] Social withdrawal  
+\[x\] Difficulty maintaining friendships  
+\[x\] Feeling like I do not fit in  
+\[x\] Sensitivity to noise  
+\[x\] Sensitivity to smells  
+\[x\] Sensitivity to light / texture / crowds  
+\[x\] Addictive or compulsive behavior  
 \[ \] Feeling detached / unreal  
-\[ \] Memory gaps or fuzzy memories
+\[x\] Memory gaps or fuzzy memories
 
 Other symptoms:
 
@@ -89,13 +79,13 @@ Other symptoms:
 What feels most difficult or impairing right now?  
 \[ \] Mood  
 \[ \] Concentration  
-\[ \] Anxiety  
+\[x\] Anxiety  
 \[ \] Sleep  
 \[ \] Relationships  
 \[ \] Social isolation  
 \[ \] Sensory sensitivity  
 \[ \] Addictive behavior  
-\[ \] Motivation  
+\[x\] Motivation  
 \[ \] Memory  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -118,174 +108,163 @@ At what age did symptoms first become noticeable?
     
 *   Adolescence: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
-*   Early adulthood: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*   Early adulthood: Depression and addictive behavior
     
-*   Mid-20s to early-30s: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+*   Mid-20s to early-30s: Depression, hypomanic episodes
     
 *   Later changes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     
 
 Did symptoms begin:  
-\[ \] Gradually  
+\[x\] Gradually  
 \[ \] Suddenly  
-\[ \] After a stressor or life event  
+\[x\] After a stressor or life event  
 \[ \] Unsure
 
 If related to a stressor or life event, describe:
+Three major depressive episodes during early 20s.
+First one after ending a toxic, emotionally abusive romantic relantionship
+Second one before going abroad for one year internship.
+Third one during the masters thesis
 
----
-
----
+One hypomanic episode started and became more noticable after starting sertraline.
 
 Which symptoms have been present for most of life?
-
----
+Cyclical depressive episodes, during winter time.
+Cyclical uplifted mood during summer/fall, turned into hypomania late 20s
 
 Which symptoms became more prominent later?
-
----
+Hypomania, not fitting in, anxiety
 
 Between episodes, do you return to your usual baseline?  
 \[ \] Yes  
 \[ \] Mostly  
 \[ \] No  
-\[ \] Unsure
+\[x] Unsure
 
 Describe your baseline when you are doing well:
-
----
-
----
-
----
+Feel like i dont know much about baseline
 
 ## 4\. Depressive Episodes
 
 Have you had episodes of depression?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 If yes:
 
-Age at first depressive episode: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Age at first depressive episode: 22
 
 Typical length of depressive episodes:  
 \[ \] Days  
 \[ \] 1–2 weeks  
-\[ \] Several weeks  
+\[x\] Several weeks  
 \[ \] Months  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 During depression, do you experience:  
-\[ \] Sadness  
-\[ \] Emptiness  
+\[x\] Sadness  
+\[x\] Emptiness  
 \[ \] Numbness  
-\[ \] Low energy  
-\[ \] Loss of pleasure  
-\[ \] Withdrawal  
+\[x\] Low energy  
+\[x\] Loss of pleasure  
+\[x\] Withdrawal  
 \[ \] Slowed thinking  
-\[ \] Guilt / self-criticism  
-\[ \] Hopelessness  
+\[x\] Guilt / self-criticism  
+\[x\] Hopelessness  
 \[ \] Crying spells  
-\[ \] Irritability  
+\[x\] Irritability  
 \[ \] Sleep changes  
-\[ \] Appetite changes  
+\[x\] Appetite changes  
 \[ \] Suicidal thoughts
 
 How severe do depressive episodes become?  
 \[ \] Mild  
 \[ \] Moderate  
-\[ \] Severe
+\[x\] Severe
 
 What happens to work / school / daily functioning during depression?
-
----
-
----
+Becoming edgy or irritable but I was able to mask it until late 20s, early 30s
 
 Any seasonal pattern?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
-If yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+If yes: Winters depressive, summer/fall hypomanic
 
 ---
 
 ## 5\. Elevated Mood / Mania / Hypomania
 
 Have you had periods of unusually elevated, energized, or unusually irritable mood?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Unsure
 
 If yes:
 
-Age at first episode: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Age at first episode: 29
 
 Typical duration:  
 \[ \] A few hours  
 \[ \] 1–3 days  
 \[ \] 4–7 days  
-\[ \] More than a week  
+\[x\] More than a week  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 During these periods, did you have:  
-\[ \] Needing much less sleep  
-\[ \] Feeling unusually energized  
-\[ \] Elevated / euphoric mood  
-\[ \] Increased confidence  
-\[ \] Grand ideas  
-\[ \] Racing thoughts  
+\[x\] Needing much less sleep  
+\[x\] Feeling unusually energized  
+\[x\] Elevated / euphoric mood  
+\[x\] Increased confidence  
+\[x\] Grand ideas  
+\[x\] Racing thoughts  
 \[ \] Talking more than usual  
-\[ \] Feeling unusually social  
-\[ \] Increased productivity  
+\[x\] Feeling unusually social  
+\[x\] Increased productivity  
 \[ \] Impulsive spending  
-\[ \] Risk-taking  
-\[ \] Sexual impulsivity  
-\[ \] Irritability / anger  
+\[x\] Risk-taking  
+\[x\] Sexual impulsivity  
+\[x\] Irritability / anger  
 \[ \] Agitation  
-\[ \] Starting many plans/projects
+\[x\] Starting many plans/projects
 
 Did others clearly notice a change in you?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Unsure
 
 Did these periods lead to consequences?  
-\[ \] Relationship conflict  
+\[x\] Relationship conflict  
 \[ \] Financial problems  
 \[ \] Work / school problems  
-\[ \] Embarrassing behavior  
-\[ \] Risky behavior  
+\[x\] Embarrassing behavior  
+\[x\] Risky behavior  
 \[ \] None  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Were any episodes triggered by:  
-\[ \] Antidepressants  
+\[x\] Antidepressants  
 \[ \] Stimulants  
 \[ \] Sleep deprivation  
-\[ \] Cannabis  
+\[x\] Cannabis  
 \[ \] Alcohol  
 \[ \] Other substances  
 \[ \] Stress  
-\[ \] No clear trigger
+\[x\] No clear trigger
 
 Any psychotic symptoms during these periods?  
-\[ \] No  
+\[x\] No  
 \[ \] Yes  
 If yes, describe: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Any ER visits, hospitalization, or urgent intervention related to these episodes?
-
----
-
----
+Any ER visits, hospitalization, or urgent intervention related to these episodes? No
 
 ## 6\. Mixed States
 
 Have you ever had periods where you felt depressed but also agitated, unable to sleep, or like your thoughts were racing?  
 \[ \] Yes  
 \[ \] No  
-\[ \] Unsure
+\[x] Unsure
 
 If yes, describe:
 
@@ -298,29 +277,29 @@ If yes, describe:
 ## 7\. Attention, Concentration, and Executive Function
 
 Do you have ongoing problems with attention or concentration?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 If yes, when did they begin?  
 \[ \] Childhood  
 \[ \] Adolescence  
 \[ \] Adulthood  
-\[ \] Only during mood episodes  
+\[x\] Only during mood episodes  
 \[ \] Unsure
 
 Which problems apply?  
-\[ \] Easily distracted  
+\[x\] Easily distracted  
 \[ \] Daydreaming  
-\[ \] Trouble sustaining focus  
-\[ \] Trouble organizing tasks  
+\[x\] Trouble sustaining focus  
+\[x\] Trouble organizing tasks  
 \[ \] Trouble prioritizing  
-\[ \] Procrastination  
+\[x\] Procrastination  
 \[ \] Forgetfulness  
 \[ \] Losing things  
-\[ \] Trouble starting tasks  
+\[x\] Trouble starting tasks  
 \[ \] Trouble finishing tasks  
 \[ \] Hyperfocus on interesting topics  
-\[ \] Mental fatigue
+\[x\] Mental fatigue
 
 Did teachers / parents ever comment on any of the following?  
 \[ \] Inattention  
@@ -329,48 +308,44 @@ Did teachers / parents ever comment on any of the following?
 \[ \] Laziness  
 \[ \] Daydreaming  
 \[ \] Disorganization  
-\[ \] No  
+\[x\] No  
 \[ \] Unsure
 
 How much do concentration problems affect work or school?  
 \[ \] Not much  
-\[ \] Mildly  
+\[x\] Mildly  
 \[ \] Moderately  
 \[ \] Significantly
 
-Describe:
-
----
-
----
+Describe: I am top performer, I can notice the change but I can mask it since my worse performance still above average
 
 ## 8\. Social Functioning and Relationships
 
 How would you describe your social life?  
 \[ \] Very isolated  
-\[ \] A few close friendships  
+\[x\] A few close friendships  
 \[ \] Moderate social network  
 \[ \] Large social network  
 \[ \] Variable
 
 Do you tend to:  
-\[ \] Prefer a few deep relationships  
-\[ \] Want more relationships but struggle to maintain them  
-\[ \] Lose touch over time  
+\[x\] Prefer a few deep relationships  
+\[x\] Want more relationships but struggle to maintain them  
+\[x\] Lose touch over time  
 \[ \] Avoid conflict  
-\[ \] Feel socially different  
+\[x\] Feel socially different  
 \[ \] Feel socially anxious  
 \[ \] Feel socially exhausted  
-\[ \] Feel misunderstood  
-\[ \] Have difficulty knowing how often to contact people
+\[x\] Feel misunderstood  
+\[x\] Have difficulty knowing how often to contact people
 
 Do relationships tend to fade because of:  
 \[ \] Forgetting to reach out  
-\[ \] Low energy / depression  
+\[x\] Low energy / depression  
 \[ \] Social anxiety  
-\[ \] Feeling overwhelmed  
+\[x\] Feeling overwhelmed  
 \[ \] Difficulty with closeness  
-\[ \] Lack of interest  
+\[x\] Lack of interest  
 \[ \] Unclear why
 
 Describe typical friendship/relationship patterns:
@@ -379,27 +354,22 @@ Describe typical friendship/relationship patterns:
 
 ---
 
-Current close friends (number): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Current close friends (number): 3
 
 Romantic relationship history (briefly):
-
----
-
----
-
----
+Few short term relationship, 1 marriage, 2 long term relationship (including current one)
 
 ## 9\. Sensory Profile
 
 Are you unusually sensitive to sensory input?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 Which types?  
-\[ \] Noise  
-\[ \] Smells  
+\[x\] Noise  
+\[x\] Smells  
 \[ \] Light  
-\[ \] Crowds  
+\[x\] Crowds  
 \[ \] Clothing textures  
 \[ \] Food textures  
 \[ \] Touch  
@@ -408,41 +378,36 @@ Which types?
 Since when?  
 \[ \] Childhood  
 \[ \] Adolescence  
-\[ \] Adulthood  
+\[x\] Adulthood  
 \[ \] Unsure
 
 Does sensory overload lead to:  
-\[ \] Irritability  
+\[x\] Irritability  
 \[ \] Anxiety  
 \[ \] Withdrawal  
-\[ \] Shutdown  
+\[x\] Shutdown  
 \[ \] Fatigue  
 \[ \] Trouble concentrating  
-\[ \] Anger  
+\[x\] Anger  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Describe the most difficult triggers:
-
----
-
----
-
----
+Repeating, annoying sounds
 
 ## 10\. Autism / Neurodivergence Screening Questions
 
 Have you long felt different or out of sync socially?  
 \[ \] Yes  
 \[ \] No  
-\[ \] Unsure
+\[x\] Unsure
 
 Do any of the following apply, especially since childhood?  
 \[ \] Difficulty reading social cues  
-\[ \] Small talk feels effortful  
-\[ \] Need time alone after socializing  
+\[x\] Small talk feels effortful  
+\[x\] Need time alone after socializing  
 \[ \] Strong preference for routine  
-\[ \] Discomfort with change  
-\[ \] Deep / intense interests  
+\[x\] Discomfort with change  
+\[x\] Deep / intense interests  
 \[ \] Masking or copying social behavior  
 \[ \] Eye contact feels unnatural  
 \[ \] Group settings are difficult  
@@ -450,55 +415,45 @@ Do any of the following apply, especially since childhood?
 \[ \] None of the above
 
 Please describe any lifelong social or sensory patterns:
-
----
-
----
-
 ---
 
 ## 11\. Anxiety
 
 Do you struggle with anxiety?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 If yes, which types fit best?  
-\[ \] General worry  
+\[x\] General worry  
 \[ \] Social anxiety  
 \[ \] Panic attacks  
-\[ \] Obsessive thoughts  
+\[x\] Obsessive thoughts  
 \[ \] Compulsive behaviors  
 \[ \] Health anxiety  
-\[ \] Perfectionism  
-\[ \] Rumination after interactions
+\[x\] Perfectionism  
+\[x\] Rumination after interactions
 
 What situations trigger anxiety most?
-
----
-
----
-
----
+Conflicts, fear of possible undesired outcomes, depressive episodes
 
 ## 12\. Trauma, Attachment, Dissociation, and Memory
 
 Would you describe childhood as:  
 \[ \] Safe and stable  
-\[ \] Emotionally distant  
-\[ \] Critical / invalidating  
+\[x\] Emotionally distant  
+\[x\] Critical / invalidating  
 \[ \] Chaotic  
 \[ \] Neglectful  
-\[ \] Traumatic  
-\[ \] Mixed  
+\[x\] Traumatic  
+\[x\] Mixed  
 \[ \] Prefer not to answer
 
 Any known history of:  
-\[ \] Emotional abuse  
-\[ \] Physical abuse  
+\[x\] Emotional abuse  
+\[x\] Physical abuse  
 \[ \] Sexual abuse  
 \[ \] Bullying  
-\[ \] Family violence  
+\[x\] Family violence  
 \[ \] Substance use in the home  
 \[ \] Repeated losses / abandonment  
 \[ \] Chronic invalidation  
@@ -506,24 +461,24 @@ Any known history of:
 \[ \] Prefer not to answer
 
 Do you have fuzzy or incomplete memory for:  
-\[ \] Childhood  
-\[ \] Teenage years  
+\[x\] Childhood  
+\[x\] Teenage years  
 \[ \] Specific periods only  
 \[ \] Stressful events  
 \[ \] No significant memory concerns
 
 Does memory fuzziness feel like:  
-\[ \] General poor recall  
-\[ \] Blank spots  
+\[x\] General poor recall  
+\[x\] Blank spots  
 \[ \] Certain years feel vague  
 \[ \] Stress-related  
 \[ \] Unsure
 
 Do you ever experience:  
-\[ \] Feeling detached from yourself  
+\[x\] Feeling detached from yourself  
 \[ \] Feeling the world is unreal  
 \[ \] Losing time  
-\[ \] Emotional numbness  
+\[x\] Emotional numbness  
 \[ \] Strong reactions to reminders / triggers  
 \[ \] None of these
 
@@ -538,19 +493,19 @@ Describe any memory, trauma, or dissociation concerns:
 ## 13\. Addictive or Compulsive Behaviors
 
 Have you struggled with substance use or addictive/compulsive behaviors?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 If yes, check all that apply:  
-\[ \] Alcohol  
-\[ \] Cannabis  
-\[ \] Nicotine  
-\[ \] Stimulants  
+\[x\] Alcohol  
+\[x\] Cannabis  
+\[x\] Nicotine  
+\[x\] Stimulants  
 \[ \] Sedatives  
 \[ \] Opioids  
 \[ \] Psychedelics  
 \[ \] Gambling  
-\[ \] Porn / sexual behavior  
+\[x\] Porn / sexual behavior  
 \[ \] Gaming  
 \[ \] Shopping  
 \[ \] Internet / social media  
@@ -559,23 +514,23 @@ If yes, check all that apply:
 
 Which have been most problematic?
 
----
+Nicotine, sexual behavior
 
 What do these behaviors help you cope with?  
-\[ \] Depression  
-\[ \] Anxiety  
-\[ \] Loneliness  
-\[ \] Boredom  
+\[x\] Depression  
+\[x\] Anxiety  
+\[x\] Loneliness  
+\[x\] Boredom  
 \[ \] Racing thoughts  
 \[ \] Emotional pain  
 \[ \] Sleep  
-\[ \] Emptiness  
+\[x\] Emptiness  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Have these caused consequences?  
 \[ \] No  
-\[ \] Yes  
-If yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\[x\] Yes  
+If yes: Risky sexual experiences causing major depressive anxious period of time, until I get my STI results
 
 Any periods of abstinence or major improvement? What changed?
 
@@ -587,84 +542,76 @@ Any periods of abstinence or major improvement? What changed?
 
 ## 14\. Sleep
 
-Typical bedtime: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Typical wake time: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Typical bedtime: 12am
+Typical wake time: 7am
 
-How many hours of sleep do you usually get? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+How many hours of sleep do you usually get? 6-7
 
 Sleep problems:  
 \[ \] Trouble falling asleep  
 \[ \] Trouble staying asleep  
 \[ \] Sleeping too much  
-\[ \] Irregular schedule  
+\[x\] Irregular schedule  
 \[ \] Nightmares  
 \[ \] Restless sleep  
 \[ \] Snoring / possible apnea  
-\[ \] Need much less sleep during “up” periods
+\[x\] Need much less sleep during “up” periods
 
 Does lack of sleep affect mood significantly?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Unsure
 
 Describe:
-
----
-
----
+Good sleep makes me energized, much better/positive. Bad sleep makes everything dreadful, heavy fatigue (physical and emotional)
 
 ## 15\. Work, School, and Functioning
 
 Current work/school status:
 
----
+Full time job, office worker
 
 How would you describe your level of functioning overall?  
 \[ \] High functioning externally  
-\[ \] Inconsistent  
+\[x\] Inconsistent  
 \[ \] Struggling but compensating  
 \[ \] Significantly impaired  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Have you generally done well in school or work?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Mixed
 
 If yes, what helps you succeed?  
-\[ \] Intelligence / quick learning  
+\[x\] Intelligence / quick learning  
 \[ \] Strong structure  
 \[ \] Deadlines / pressure  
-\[ \] Perfectionism  
+\[x\] Perfectionism  
 \[ \] Hyperfocus  
 \[ \] Overwork  
-\[ \] Masking / compensating  
+\[x\] Masking / compensating  
 \[ \] Support from others  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Does success hide internal distress or burnout?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Sometimes
 
 Describe any hidden difficulties despite functioning:
-
----
-
----
-
----
+Lack of motivation, fatigue, feeling inadequate/insecure
 
 ## 16\. Personality / Self-Experience
 
 Do any of the following fit?  
-\[ \] Strong self-criticism  
-\[ \] Chronic shame  
-\[ \] Fear of rejection  
+\[x\] Strong self-criticism  
+\[x\] Chronic shame  
+\[x\] Fear of rejection  
 \[ \] Fear of abandonment  
-\[ \] Feeling empty  
-\[ \] Feeling different from others  
-\[ \] Difficulty knowing who I am  
+\[x\] Feeling empty  
+\[x\] Feeling different from others  
+\[x\] Difficulty knowing who I am  
 \[ \] Conflict avoidance  
 \[ \] Emotional overcontrol  
 \[ \] Black-and-white thinking  
@@ -682,16 +629,17 @@ Describe how you see yourself and your emotional patterns:
 ## 17\. Past Psychiatric Treatment
 
 Have you seen a therapist, psychiatrist, or counselor before?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 Past diagnoses given to you, if any:
 
----
+Depression when I was 28, started sertraline
+BP 2 after having a hypomanic episode when I was 32
 
 Past therapy types:  
 \[ \] CBT  
-\[ \] Psychodynamic therapy  
+\[x\] Psychodynamic therapy  
 \[ \] DBT  
 \[ \] Trauma therapy  
 \[ \] Couples therapy  
@@ -700,7 +648,7 @@ Past therapy types:
 
 What helped?
 
----
+Therapy and Lamotrigine help
 
 What did not help?
 
@@ -711,57 +659,47 @@ What did not help?
 ## 18\. Medication History
 
 ### Current medications
-
-| Medication | Dose | How long | Helpful? | Side effects |
-| --- | --- | ---: | --- | --- |
-|     |     |     |     |     |
-|     |     |     |     |     |
+On Lamotrigine for more than 3 years. Tried to quit with the help of psychiatrist because of complaints with side-effects (language impairment, bad memory). Resulted in dysphoric hypomania, started back on 75mg per day. 
 
 ### Specific questions
 
 Are you currently taking Lamictal (lamotrigine)?  
-\[ \] Yes  
+\[x] Yes  
 \[ \] No
 
-If yes, dose: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+If yes, dose: 75mg/day
 
 What has Lamictal helped with?  
 \[ \] Depression  
-\[ \] Mood stability  
+\[x\] Mood stability  
 \[ \] Irritability  
 \[ \] Mood swings  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Any side effects from Lamictal?  
 \[ \] None  
-\[ \] Concentration issues  
-\[ \] Word-finding difficulty  
-\[ \] Fatigue  
+\[x\] Concentration issues  
+\[x\] Word-finding difficulty  
+\[\] Fatigue  
 \[ \] Headache  
 \[ \] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Past psychiatric medications tried:
-
----
-
----
+Sertraline for 2 years
 
 Did any antidepressant ever make you feel unusually activated, sleepless, agitated, or “too up”?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No  
 \[ \] Unsure
 
 Describe:
-
----
-
----
+Had my first hypomania soon after starting sertraline. Psychiatrist prescribed that, noticed it but thought it would go away
 
 ## 19\. Medical / Neurologic History
 
 Any major medical conditions?  
 \[ \] Yes  
-\[ \] No  
+\[x\] No  
 If yes: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Any history of:  
@@ -778,16 +716,13 @@ Any history of:
 \[ \] None known
 
 Anything else medically relevant:
-
----
-
----
+Meningitis
 
 ## 20\. Family History
 
 Any family history of:  
 \[ \] Bipolar disorder  
-\[ \] Depression  
+\[x\] Depression  
 \[ \] Anxiety  
 \[ \] ADHD  
 \[ \] Autism / autistic traits  
@@ -798,113 +733,41 @@ Any family history of:
 \[ \] Unknown
 
 Details:
-
----
-
----
-
----
+Mom diagnosed with MDD, but she exhibits seasonal affective disorder, there’s a high chance she has bipolar because she has mood swings but only ask for treatment when she’s terribly depressed.
 
 ## 21\. Safety Assessment
 
 Have you ever had thoughts of not wanting to live?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 Have you ever had suicidal thoughts?  
-\[ \] Yes  
+\[x\] Yes  
 \[ \] No
 
 If yes:  
-\[ \] Passive only  
-\[ \] Active thoughts  
+\[x\] Passive only  
+\[\] Active thoughts  
 \[ \] Plan  
 \[ \] Intent  
 \[ \] Past attempt(s)
 
 Any history of self-harm?  
 \[ \] Yes  
-\[ \] No
+\[x\] No
 
 Any current suicidal thoughts?  
 \[ \] Yes  
-\[ \] No
+\[x\] No
 
 Any current thoughts of harming others?  
 \[ \] Yes  
-\[ \] No
+\[x\] No
 
 What helps keep you safe when things get bad?
 
 ---
 
 Who can support you in a crisis?
-
+Partner, therapist
 ---
-
----
-
-## 22\. Final Summary in Your Own Words
-
-1.  What do you most want help with?
-    
-
----
-
----
-
-2.  What do you think is going on?
-    
-
----
-
----
-
-3.  What are your biggest strengths?
-    
-
----
-
----
-
-4.  Anything important not covered above?
-    
-
----
-
----
-
----
-
----
-
-# Clinician Summary Section
-
-**Main symptom clusters:**  
-\[ \] Bipolar-spectrum symptoms  
-\[ \] Recurrent depression  
-\[ \] Anxiety  
-\[ \] ADHD / executive dysfunction  
-\[ \] Autism-spectrum / neurodivergence traits  
-\[ \] Trauma / dissociation  
-\[ \] Substance / behavioral addiction vulnerability  
-\[ \] Personality / attachment patterns  
-\[ \] Sensory processing issues
-
-**Age of onset:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Episode pattern:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Baseline functioning:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Key risk factors:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Treatment response:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Top diagnostic questions to clarify:**
-
-1.  ---
-    
-2.  ---
-    
-3.  ---
-    
-
----
-
-If you want, I can also turn this into a more polished **fillable PDF-style version**, or a **shorter high-yield intake form** that is easier to actually use in one sitting.
